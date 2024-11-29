@@ -1,0 +1,1 @@
+The Quiz Application is an interactive console-based Java program designed to help users test their knowledge on various topics. It presents questions to the user, receives input as answers, and provides feedback on whether the answer is correct. This project aims to offer a simple yet functional approach to quiz applications, useful for educational or entertainment purposes.
